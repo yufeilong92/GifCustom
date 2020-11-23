@@ -1,5 +1,6 @@
 # GifCustom
-   ```  GifDecoder.with(this)
+   ```  
+   GifDecoder.with(this)
             .load(url)
             .into(gif_view)
             
