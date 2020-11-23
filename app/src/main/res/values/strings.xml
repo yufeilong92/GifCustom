@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="gif_texture_view_stub_acceleration">GifTextureView requires hardware acceleration</string>
+    <string name="gif_texture_view_loading_failed">Could not load GIF: %s. Tap to try again.</string>
+</resources>
